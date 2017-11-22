@@ -1,6 +1,6 @@
 # README
 
-Rails app for their best-seller list. Books are listed by rank on the main page. Clicking on a book takes users to a page where they can read editorial reviews.
+Rails app to manage a best seller list. Books are listed by rank on the main page. Clicking on a book takes users to a page where they can read editorial reviews.
 
 All books
 [![Bookmarks.png](https://s7.postimg.org/b7hgi7o23/Bookmarks.png)](https://postimg.org/image/4tsdeyj5z/)
